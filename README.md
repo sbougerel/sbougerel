@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 It's Sylvain
+
+I’m a software engineer who's been at time an senior principal engineer, at times a senior manager and yet still feels like a junior 😅. I'm used to working on mission critical & high-availability systems, which I did at [Grab](https;//grab.com) and [Thales](https://thalesgroup.com). I grew to enjoy focusing on engineering efficiency topics; devops, continuous integration and delivery, infrastructure maintenance, site reliability engineering. I recently co-founded a new business with my partner: [Canterly](https://canterly.com/)!
+
+I usually spend my free time working on the tools I love and use daily or on some projects of the moment, that I usually share here or on Gitlab 🤫. I’m a long time Linux 🐧 and Emacs user, normally running Arch but increasingly getting into Nix. I’ve been working on improving my note-taking workflows with `org-mode`, `org-roam` and [logseq](https://logseq.com). I recently got into Typescript and frontend development with React and NextJS for my new venture; and I'm loving it!
+
+I used to maintain a C++ library called [Spatial](https://github.com/sbougerel/spatial) which was production-grade and used for research. I'm hoping to eventually get the time to revive it and modernize it.
+
+You can reach out to me on 📫 [LinkedIn](https://www.linkedin.com/in/sylvain-bougerel/).
 
 <!--
 **sbougerel/sbougerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
